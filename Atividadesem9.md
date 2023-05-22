@@ -1,4 +1,4 @@
-Para aplicar recursos de controle de acesso e permissão em um banco de dados relacionado ao tema de treino de academia, podemos criar objetos como functions, procedures, triggers e events que restrinjam o acesso a determinados dados ou operações. Seguem abaixo alguns exemplos de objetos que podemos criar:
+Seguem abaixo alguns exemplos de objetos que podemos criar:
 
 1. Function: podemos criar uma function que retorne apenas os dados de treinos de um usuário específico, com base em seu ID. A function poderia ser definida da seguinte forma:
 
