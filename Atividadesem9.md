@@ -1,3 +1,8 @@
+Curso de Engenharia de Software - UniEVANGÉLICA 
+Disciplina de Sisetmas Gerenciadores de Banco de Dados
+Dev: Thiago Silva Soares 
+DATA: 21/05/2023
+
 Seguem abaixo alguns exemplos de objetos que podemos criar:
 
 1. Function: podemos criar uma function que retorne apenas os dados de treinos de um usuário específico, com base em seu ID. A function poderia ser definida da seguinte forma:
